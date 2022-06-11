@@ -11,4 +11,20 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Easy if available?
 - 😄 
 - ⚡ Fun fact: I m cooooool
+
+
+
+
+
+
+
+
+
+
+
+http://hireable.me/<username>/<style>
 [![Is <username> available for hire?](http://hireable.me/<username>)](http://hireable.me/p/<username>)
+  
+<a href="http://hireable.me/p/<username>">
+  <img src="http://hireable.me/<username>" alt="Is <username> available for hire?" />
+</a>
