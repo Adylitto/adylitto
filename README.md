@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Easy if available?
 - 😄 
 - ⚡ Fun fact: I m cooooool
--->
+[![Is <username> available for hire?](http://hireable.me/<username>)](http://hireable.me/p/<username>)
