@@ -12,19 +12,3 @@ Here are some ideas to get you started:
 - 😄 
 - ⚡ Fun fact: I m cooooool
 
-
-
-
-
-
-
-
-
-
-
-http://hireable.me/adylitto/<style>
-[![Is <adylitto> available for hire?](http://hireable.me/<adylitto>)](http://hireable.me/p/adylitto)
-  
-<a href="http://hireable.me/p/adylitto">
-  <img src="http://hireable.me/adylitto" alt="Is <adylitto> available for hire?" />
-</a>
