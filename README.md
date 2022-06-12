@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 
 
-http://hireable.me/<adylitto>/<style>
-[![Is <adylitto> available for hire?](http://hireable.me/<adylitto>)](http://hireable.me/p/<adylitto>)
+http://hireable.me/adylitto/<style>
+[![Is <adylitto> available for hire?](http://hireable.me/<adylitto>)](http://hireable.me/p/adylitto)
   
-<a href="http://hireable.me/p/<adylitto>">
-  <img src="http://hireable.me/<adylitto>" alt="Is <adylitto> available for hire?" />
+<a href="http://hireable.me/p/adylitto">
+  <img src="http://hireable.me/adylitto" alt="Is <adylitto> available for hire?" />
 </a>
