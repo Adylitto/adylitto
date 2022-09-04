@@ -9,6 +9,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with utilising my skills
 - 💬 Ask me about anything but personal
 - 📫 How to reach me: Easy if available?
-- 😄 
-- ⚡ Fun fact: I m cooooool
+- ⚡ Fun fact: I m cooooool 😄 
 
